@@ -18,3 +18,6 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Αλλάξτε το χρώμα ή/και το ύψος των στοιχείων της λίστας καθώς και την απόσταση μεταξύ τους
+See the Pen [
+  Sortable list ](https://codepen.io/2019193/pen/mdELzYm) by p19kont1 ([@2019193](https://codepen.io/2019193))
+  on [CodePen](https://codepen.io).
