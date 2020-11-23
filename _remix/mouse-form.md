@@ -19,3 +19,7 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
+
+  See the Pen [
+  Mouse form ](https://codepen.io/2019193/pen/NWrQjOR) by p19kont1 ([@2019193](https://codepen.io/2019193))
+  on [CodePen](https://codepen.io).
