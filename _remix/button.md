@@ -20,3 +20,4 @@ tags:
 See the Pen [
   Button ](https://codepen.io/2019193/pen/WNGdWeK) by p19kont1 ([@2019193](https://codepen.io/2019193))
   on [CodePen](https://codepen.io).
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
