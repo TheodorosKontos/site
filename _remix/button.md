@@ -17,6 +17,7 @@ tags:
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά την επιλογή του κουμπιού (κλικ), να εφαρμόζεται μια λειτουργία της επιλογής σας.
 
+Λύση:
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="2019193" data-slug-hash="dypmXQy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button ">
   <span>See the Pen <a href="https://codepen.io/2019193/pen/dypmXQy">
   Button </a> by p19kont1 (<a href="https://codepen.io/2019193">@2019193</a>)
