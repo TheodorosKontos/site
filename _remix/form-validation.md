@@ -18,6 +18,7 @@ tags:
 
 Άσκηση: Προσθέστε έλεγχο για email, credit card, ελληνικό τηλεφωνικό νούμερο. 
 
+Λύση:
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="2019193" data-slug-hash="QWEEoxd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form validation ">
   <span>See the Pen <a href="https://codepen.io/2019193/pen/QWEEoxd">
   Form validation </a> by p19kont1 (<a href="https://codepen.io/2019193">@2019193</a>)
