@@ -19,5 +19,11 @@ tags:
 
 Άσκηση: Αλλάξτε το χρώμα ή/και το ύψος των στοιχείων της λίστας καθώς και την απόσταση μεταξύ τους
 
-See the Pen [Sortable list ](https://codepen.io/2019193/pen/mdELzYm) by p19kont1 ([@2019193](https://codepen.io/2019193))
-  on [CodePen](https://codepen.io).
+Λύση:
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="2019193" data-slug-hash="mdELzYm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Sortable list ">
+  <span>See the Pen <a href="https://codepen.io/2019193/pen/mdELzYm">
+  Sortable list </a> by p19kont1 (<a href="https://codepen.io/2019193">@2019193</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
