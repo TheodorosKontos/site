@@ -14,5 +14,6 @@ events:
   - rockys-boots
   - pop
   - math-blaster
-  - minecraft-end-user
+  - minecraft-end-use
+  - super-mario
 ---
