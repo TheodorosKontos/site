@@ -15,4 +15,5 @@ slides:
   - math-blaster
   - minecraft-end-user
   - super-mario
+  - shigeru-miyamoto
 ---
