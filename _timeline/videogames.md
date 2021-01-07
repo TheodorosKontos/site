@@ -16,4 +16,5 @@ events:
   - math-blaster
   - minecraft-end-use
   - super-mario
+  - shigeru-miyamoto
 ---
